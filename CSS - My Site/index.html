@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Sameera Koppana</title>
+    <link rel="stylesheet" href="CSS/Styles.css">
+    <link rel="icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat:wght@500&family=Sacramento&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="top-container">
+      <img class="top-cloud" src="cloud.png" alt="cloud-img">
+      <h1>I'm Sameera.</h1>
+      <h2><strong>a Web designer.</strong></h2>
+      <img class="bottom-cloud" src="cloud.png" alt="cloud-img">
+      <img src="mountain.png" alt="mountain-img">
+    </div>
+    <div class="middle-container">
+      <div class="profile">
+        <img src="sameera.png" alt="Sam's-img" height=200px>
+        <h2>Hello.</h2>
+        <p class="my-description">I am a passionate web-designer who love to create amazing websites and keen to learn new technologies which help me to give the best output.</p>
+      </div>
+      <hr>
+      <div class="skills">
+        <h2>My Skills.</h2>
+        <div class="skill-row">
+          <img class="web-img" src="web design.png" alt="web-img">
+          <h3>Web-Designing</h3>
+          <p>Being a Web designer enables you to not only work with websites every day but also to shape the way people interact with the Web. Plus, these days, a customer's first impression of a company is often through its website rather than print materials such as business cards or marketing mailings.</p>
+        </div>
+        <div class="skill-row">
+          <img class="dance-img" src="dance.png" alt="dance-img">
+          <h3>Dance</h3>
+          <p>Dancing is a step to a healthy lifestyle. It has health benefits from increasing stamina, relieving stress, and body sculpting to name a few. But it's also great for mental and emotional health. I feel that dance brings people together and provides them with a sense of community with people that have the same interests and passion.</p>
+          </div>
+      </div>
+      <hr>
+      <div class="contact-me">
+        <h2 class="git">Get In Touch</h2>
+        <h3>Want to create more amazing websites...??</h3>
+        <p class="cnt">All you need to do is to contact me via mail provided below and We can create amazing web-designs together!!!</p>
+        <a class="btn" href="mailto:koppana@gmail.com">CONTACT ME</a>
+      </div>
+    </div>
+
+
+    <div class="bottom-container">
+      <a class="footer-link" href="https://www.linkedin.com/in/sameera-koppana-b3422b172/">LinkedIn</a>
+      <a class="footer-link" href="https://twitter.com/SameeraKoppana">Twitter</a>
+      <a class="footer-link" href="https://github.com/Sameera312001">Github</a>
+      <p class="CR">© 2021 Sameera Koppana.</p>
+    </div>
+
+  </body>
+</html>
